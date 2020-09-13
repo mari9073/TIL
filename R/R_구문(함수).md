@@ -6,9 +6,9 @@
 
 ## 1. 데이터 구조
 
-![image-20200910213921342](C:\Users\LimSH\AppData\Roaming\Typora\typora-user-images\image-20200910213921342.png)
+![image](https://user-images.githubusercontent.com/69948774/93010908-3cc68c80-f5cc-11ea-9354-88e5a0b59706.png)
 
-![image-20200910213943571](C:\Users\LimSH\AppData\Roaming\Typora\typora-user-images\image-20200910213943571.png)
+![image](https://user-images.githubusercontent.com/69948774/93010938-a34baa80-f5cc-11ea-87da-fe6fb927d7aa.png)
 
 	### 1)벡터(Vector)
 
