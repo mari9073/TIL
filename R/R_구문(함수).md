@@ -6,9 +6,10 @@
 
 ## 1. 데이터 구조
 
-![image](https://user-images.githubusercontent.com/69948774/93010908-3cc68c80-f5cc-11ea-9354-88e5a0b59706.png)
+![데이터셋](https://user-images.githubusercontent.com/69948774/93011101-3afdc880-f5ce-11ea-8db6-50ee7101ae32.JPG)
 
- ![image](https://user-images.githubusercontent.com/69948774/93010938-a34baa80-f5cc-11ea-87da-fe6fb927d7aa.png)
+![데이터셋2](https://user-images.githubusercontent.com/69948774/93011102-3e914f80-f5ce-11ea-8190-f340a1c0c98f.JPG)
+
 
 ### 1)벡터(Vector)
 
@@ -308,7 +309,7 @@ names(list(1,2,3)) <- LETTERS[1:3]   #각 데이터 셋마다 이름 부여
 
 
 
-![image](https://user-images.githubusercontent.com/69948774/93011007-70ee7d00-f5cd-11ea-8d03-46ffbfec6426.png)
+![연산자](https://user-images.githubusercontent.com/69948774/93011104-418c4000-f5ce-11ea-9d25-b7b4bdeca014.JPG)
 
 
 
