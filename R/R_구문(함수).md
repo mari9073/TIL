@@ -8,9 +8,9 @@
 
 ![image](https://user-images.githubusercontent.com/69948774/93010908-3cc68c80-f5cc-11ea-9354-88e5a0b59706.png)
 
-![image](https://user-images.githubusercontent.com/69948774/93010938-a34baa80-f5cc-11ea-87da-fe6fb927d7aa.png)
+ ![image](https://user-images.githubusercontent.com/69948774/93010938-a34baa80-f5cc-11ea-87da-fe6fb927d7aa.png)
 
-	### 1)벡터(Vector)
+### 1)벡터(Vector)
 
 > 1차원 집합, 하나의 값(스칼라)도 벡터로 취급된다.
 >
@@ -301,13 +301,14 @@ l[[1]] + 100   #원소이기 때문에 연산 가능
 names(list(1,2,3)) <- LETTERS[1:3]   #각 데이터 셋마다 이름 부여
 ```
 
-​         ![img](file:///C:/Users/LimSH/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)  
+![list](https://user-images.githubusercontent.com/69948774/93010988-5a482600-f5cd-11ea-83a3-21f9a3d6939c.JPG)
+
 
 ## 2. 연산자
 
 
 
-![image-20200910003110507](C:\Users\LimSH\AppData\Roaming\Typora\typora-user-images\image-20200910003110507.png)
+![image](https://user-images.githubusercontent.com/69948774/93011007-70ee7d00-f5cd-11ea-8d03-46ffbfec6426.png)
 
 
 
