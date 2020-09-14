@@ -39,7 +39,7 @@ str(excel_data_ex)
 
 > 웹 크롤링(web crawling) : 자동화 봇(bot)인 웹 크롤러가 정해진 규칙에 따라 복수 개의 웹 페이지를 브라우징 하는 행위
 
-![scrape](C:\Rexam\이미지\scrape.JPG)
+![scrape](https://user-images.githubusercontent.com/69948774/93039142-b7051880-f681-11ea-97cc-eae05a31beba.JPG)
 
 - rvest 패키지의 주요 함수
 
